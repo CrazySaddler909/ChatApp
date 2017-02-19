@@ -13,8 +13,6 @@ public class MyWindow extends Canvas {
 	private static final long serialVersionUID = 6220989915378545870L;
 
 	public static void main(String[] args) {
-		
-	
 
 		JFrame frame = new JFrame("Chat App");
 		frame.setVisible(true);
